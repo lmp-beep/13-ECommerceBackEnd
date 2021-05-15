@@ -8,7 +8,7 @@
 </p>
 
 ## Description
-This is a command line application that runs with Node.js to build the back end for and e-commerce business. 
+This is a command line application that runs with MySQL and Sequelize to build the back end for and e-commerce business. The app then uses Express to GET, POST, PUT and DELETE user input in Insomnia Core.
 ***
 <br/><br/>
 
@@ -41,13 +41,13 @@ This is a command line application that runs with Node.js to build the back end 
 
 ## Instructional Videos
 ### CLI How To Video  
-![]()
+![](https://github.com/lmp-beep/13-ECommerceBackEnd/blob/35795522fbfcc90640d88150a79d7ea577894145/assets/videos/CLI-How-To-Video.gif)
 ### Insomnia Categories Video  
-![]()
+![](https://github.com/lmp-beep/13-ECommerceBackEnd/blob/35795522fbfcc90640d88150a79d7ea577894145/assets/videos/Insomnia-Categories.gif)
 ### Insomnia Products Video  
-![]()
+![](https://github.com/lmp-beep/13-ECommerceBackEnd/blob/35795522fbfcc90640d88150a79d7ea577894145/assets/videos/Insomnia-Products.gif)
 ### Insomnia Tags Video
-![](https://github.com/lmp-beep/13-ECommerceBackEnd/blob/955bf7e7014ba238635230b573af01e63da587a3/assets/videos/Insomnia-Tags.mov)
+![](https://github.com/lmp-beep/13-ECommerceBackEnd/blob/35795522fbfcc90640d88150a79d7ea577894145/assets/videos/Insomnia-Tags.gif)
 ***
 <br/><br/>
 
