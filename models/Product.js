@@ -1,3 +1,7 @@
+// ********** 
+// MY CODE - ALL OTHER STARTER CODE
+// **********
+
 // import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
 // import our database connection from config.js
@@ -8,6 +12,7 @@ class Product extends Model { }
 
 // set up fields and rules for Product model
 Product.init(
+  // ********** 
   {
     id: {
       type: DataTypes.INTEGER,
@@ -41,6 +46,7 @@ Product.init(
         key: 'id'
       }
     }
+    // ********** 
   },
   {
     sequelize,
